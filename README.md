@@ -73,7 +73,7 @@ My takeaways from this were that the Ridge regression model did not perform as w
 
 From my findings, my lasso model was the best. It had the highest r-squared in both the training and test compared to ridge and linear regression. My lasso also had the lower MSE which shows that the model perfomed best. my coefficients were closer to 0 than the other models which shows that is worked better Lasso model has the highest R-squared score on both the training and test sets compared to the other two models. It also showed more potential for feature slection.
 
-# Excecutive summary - TBD:
+# Excecutive summary:
 In summary, my lasso model was the best. It had the highest r-squared in both the training and test compared to ridge and linear regression. My lasso also had the lower MSE which shows that the model perfomed best. my coefficients were closer to 0 than the other models which shows that is worked better Lasso model has the highest R-squared score on both the training and test sets compared to the other two models. It also showed more potential for feature selection. In terms of asnwering my problem statement and question, I found that There is an impact based on the relationship and may be worth considering for further investigation however, the impact is not stark. My Recommendation would be to onsider it a factor, but not the only one.
 While not the only factor(example: bedrooms), dimensions still have an impact on the price of homes in Ames Iowa. 
 
